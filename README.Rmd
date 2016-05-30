@@ -36,9 +36,9 @@ You should create one R script called run_analysis.R that does the following.
 
 ## Submited Work
 * R code that perform the analysis required: runAnalysis.R
-* Code book that describes the variables, the data, and any transformations that you performed: Project Code Book.Rmd  
+* Code book that describes the variables, the data, and any transformations that you performed: Code Book.Rmd  
 * README file that explains the analysis files: README.Rmd
-* A tidy data set with the average of each variable for each activity and each subject: tidy.txt
+* A tidy data set with the average of each variable for each activity and each subject: Tidy.txt
 
 
 
